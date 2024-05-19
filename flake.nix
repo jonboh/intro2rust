@@ -18,6 +18,9 @@
 
           nodejs
         ];
+        shellHook = ''
+          export STARSHIP_CONFIG=$(realpath ./starship.toml)
+        '';
       };
     };
   };

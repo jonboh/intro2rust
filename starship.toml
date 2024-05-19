@@ -1,0 +1,16 @@
+[git_branch]
+disabled=true
+[git_status]
+disabled=true
+
+
+[rust]
+disabled=true
+[package]
+disabled=true
+
+[nix_shell]
+disabled=true
+
+[nodejs]
+disabled=true

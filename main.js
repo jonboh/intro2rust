@@ -22,6 +22,8 @@ deck.initialize({
         center: true,
         // margin: 0.15,
 
-        externalCode: {},
+        externalCode: {
+            basePath: "/intro2rust"
+        },
         plugins: [ExternalCode, RevealHighlight],
       });

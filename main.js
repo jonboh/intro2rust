@@ -21,6 +21,7 @@ deck.initialize({
         // overview: false,
         center: true,
         // margin: 0.15,
+        navigationMode: "linear",
 
         externalCode: {
             basePath: "/intro2rust"

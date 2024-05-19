@@ -1,0 +1,4 @@
+warning /home/jonboh/doc/presentations/intro2rust/public/code/error_handling/src/update.rs:7:14 unused variable: `update`
+warning /home/jonboh/doc/presentations/intro2rust/public/code/error_handling/src/update.rs:1:4 function `fetch_update` is never used
+warning /home/jonboh/doc/presentations/intro2rust/public/code/error_handling/src/update.rs:5:4 function `update_game` is never used
+warning /home/jonboh/doc/presentations/intro2rust/public/code/error_handling/src/update.rs:14:8 struct `UpdateMetadata` is never constructed
